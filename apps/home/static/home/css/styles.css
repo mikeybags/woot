@@ -52,10 +52,6 @@
   font-size: 2em;
 }
 
-.panel-heading {
-  height: 64px;
-}
-
 .navbar .nav > li.dropdown.open.active > a:hover,
 .navbar .nav > li.dropdown.open > a,
 .navbar .nav > li.dropdown.open > ul.dropdown-menu > li > a:hover
@@ -69,6 +65,7 @@
 .name-font {
   font-family: Helvetica,"Helvetica Neue",Arial,sans-serif;
   color: #333;
+  font-size: small;
 }
 
 .gray_font {
