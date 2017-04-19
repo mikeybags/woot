@@ -47,8 +47,7 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
   ```
     pip install -r requirements.txt
   ```
-
-* Create database
+* Migrate
   ```
     python manage.py migrate
   ```
