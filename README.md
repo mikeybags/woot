@@ -34,6 +34,10 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
   ```
     git clone https://github.com/mikeybags/woot.git
   ```
+* Move into project directory
+  ```
+    cd woot
+  ```
 * Create and start a a virtual environment
   ```
     virtualenv env --no-site-packages
@@ -46,7 +50,6 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
 
 * Create database
   ```
-    python manage.py makemigrations
     python manage.py migrate
   ```
 * Start the server
