@@ -55,4 +55,4 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
   ```
     python manage.py runserver
   ```
-* Open localhost:8000 on your browser to view the app.
+* Open localhost:8000 on your browser to view the app
