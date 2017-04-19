@@ -27,7 +27,7 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
     pyparsing==2.1.10
     pytz==2016.10
     six==1.10.0
-
+ ```
 ## To Run Project Locally
 
 * Clone the project
