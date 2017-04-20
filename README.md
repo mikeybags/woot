@@ -13,7 +13,7 @@ E-commerce "deal a day" web application built in Python/Django. A clone of woot.
   * SQLite3
   
 ## Demo
-* Deployed Demo Site: [Demo](http://54.187.237.150/)
+* [AWS Deployed Demo Site](http://54.187.237.150/)
 
 ## Dependencies
   ```
